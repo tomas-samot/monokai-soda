@@ -1,10 +1,10 @@
 {
   "name": "monokai-soda",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "private": true,
-  "description": "A modified version of monokai syntax theme for Atom",
-  "repository": "https://github.com/AbeEstrada/monokai-soda",
+  "description": "A modified version of monokai syntax theme for Atom. Used to be hosted here: https://github.com/AbeEstrada/monokai-soda",
+  "repository": "https://github.com/tomas-samot/monokai-soda",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
